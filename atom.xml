@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://felogh.github.io/"/>
-  <updated>2018-10-30T13:53:19.378Z</updated>
+  <updated>2018-11-13T14:07:55.614Z</updated>
   <id>https://felogh.github.io/</id>
   
   <author>
@@ -17,13 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Change</title>
+    <link href="https://felogh.github.io/2018/11/13/Change/"/>
+    <id>https://felogh.github.io/2018/11/13/Change/</id>
+    <published>2018-11-13T13:48:25.000Z</published>
+    <updated>2018-11-13T14:07:55.614Z</updated>
+    
+    <content type="html"><![CDATA[<p>真的是很久没更新了，小记一下</p><blockquote><p>过去三个多月</p></blockquote><p><code>2018.07.23</code>入职，职业生涯开始，在成都，被分到了wx，和一开始预想的不同，包括地域和内容。全是通信的知识，学起来很生硬。但过得还算辉煌</p><ul><li>获得“8月微战之星”，奖励500</li><li>新老员工编程大赛季军</li><li>导师寄予厚望，有机会升职加薪</li><li><p>组织活动</p><div align="center"><img src="/2018/11/13/Change/./Change/shy.jpg" alt=""></div></li></ul><blockquote><p>未来</p></blockquote><p>但由于业务不喜欢，<strong>女票不在身边</strong>(没错，重中之重，加粗了)，申请去了深圳，换部门，去CBU，做云搜索相关的，设计<code>Python</code>、<code>ElasticSearch</code>、<code>docker</code>，是个挑战也是个机遇，但最重要的是 <strong>离女票更近了</strong></p> <div align="center"><img src="/2018/11/13/Change/./Change/cute.jpg" alt=""></div><hr><p>the end…</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;真的是很久没更新了，小记一下&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;过去三个多月&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;2018.07.23&lt;/code&gt;入职，职业生涯开始，在成都，被分到了wx，和一开始预想的不同，包括地域和内容。全是通信的知识，学起来很
+      
+    
+    </summary>
+    
+    
+      <category term="essay" scheme="https://felogh.github.io/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://felogh.github.io/2017/12/04/hello-world/"/>
     <id>https://felogh.github.io/2017/12/04/hello-world/</id>
     <published>2017-12-04T13:19:47.000Z</published>
-    <updated>2018-10-30T13:53:19.378Z</updated>
+    <updated>2018-11-13T13:45:13.776Z</updated>
     
-    <content type="html"><![CDATA[<p>博客算是正式转到github了；已经大四了；2017年经历了挺多；想到什么写什么吧</p><h2 id="Hello-Past"><a href="#Hello-Past" class="headerlink" title="Hello Past"></a>Hello Past</h2><p>(啥都不剩了)</p>]]></content>
+    <content type="html"><![CDATA[<p>博客算是正式转到github了；已经大四了；2017年经历了挺多；想到什么写什么吧</p><h2 id="Hello-Past"><a href="#Hello-Past" class="headerlink" title="Hello Past"></a>Hello Past</h2><p><del>之前的内容就剩这么一点儿了</del></p>]]></content>
     
     <summary type="html">
     
